@@ -2,4 +2,4 @@ In this project, we will use a regression model to predicts the price of a house
 
 The first step is to run the following command in the terminal where this project is located
 
-    pip install requirements.txt
+    pip install - r requirements.txt
